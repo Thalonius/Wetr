@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL.Domain", "DAL.Domain\DA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL.Dao", "DAL.Dao\DAL.Dao.csproj", "{6355969A-7918-4E05-B929-715C5B62D215}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wetr.Test", "Wetr.Test\Wetr.Test.csproj", "{5A9D32D2-988E-40DF-91D9-CD4AEB5A3A51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6355969A-7918-4E05-B929-715C5B62D215}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6355969A-7918-4E05-B929-715C5B62D215}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6355969A-7918-4E05-B929-715C5B62D215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9D32D2-988E-40DF-91D9-CD4AEB5A3A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9D32D2-988E-40DF-91D9-CD4AEB5A3A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9D32D2-988E-40DF-91D9-CD4AEB5A3A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9D32D2-988E-40DF-91D9-CD4AEB5A3A51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
